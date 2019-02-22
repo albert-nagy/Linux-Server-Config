@@ -1,15 +1,20 @@
-#Linux Server Configuration Project
+# Linux Server Configuration Project
 
-##URL
+## URL
 
 https://repertorio.symphonic-music.com
 
-##IP Address
+## IP Address
 
 35.157.212.201
 
-##Software installed
+## SSH Port
 
+2200
+
+## Software installed
+
+- git
 - apache2
 - libapache2-mod-wsgi-py3
 - postgresql
@@ -20,7 +25,7 @@ https://repertorio.symphonic-music.com
 - Clone Repertorio repository
 - certbot python-certbot-apache
 
-##Configurations
+## Configurations
 
 - Update system packages
 - Set timezone to UTC
@@ -39,4 +44,8 @@ https://repertorio.symphonic-music.com
 	- Enable port 443 in firewalls
 - Add new domain, redirect URLs and JavaScript origin to Facebook and Google OAuth apps
 
+## Third-party resources
 
+- https://freedns.afraid.org/ - to set up a DNS record for the IP address
+- https://certbot.eff.org/lets-encrypt/ubuntuxenial-apache to get SSL certificate
+- https://stackoverflow.com/ - to research errors and find solutions
