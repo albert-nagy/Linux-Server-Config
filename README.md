@@ -1,5 +1,10 @@
 # Linux Server Configuration Project
 
+## Description
+
+The server configured in this project serves my Items Catalog project called [Repertor&bull;io](https://github.com/albert-nagy/Repertorio).
+In order to make Google and Facebook Login to work, I have registered a free subdomain for the server's IP address and set up an SSL certificate for the site.
+
 ## URL
 
 https://repertorio.symphonic-music.com
@@ -7,10 +12,6 @@ https://repertorio.symphonic-music.com
 ## IP Address
 
 35.157.212.201
-
-## SSH Port
-
-2200
 
 ## Software installed
 
