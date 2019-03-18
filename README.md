@@ -9,13 +9,7 @@ In order to make Google and Facebook Login to work, I have registered a free sub
 
 I had to allow Port 443, because Facebook Login now enforces HTTPS.
 
-## URL
-
-https://repertorio.symphonic-music.com
-
-## IP Address
-
-35.157.212.201
+## This project is currently not online
 
 ## Software installed
 
