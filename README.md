@@ -9,7 +9,7 @@ In order to make Google and Facebook Login to work, I have registered a free sub
 
 I had to allow Port 443, because Facebook Login now enforces HTTPS.
 
-## This project is currently not online
+## This project is currently offline
 
 ## Software installed
 
